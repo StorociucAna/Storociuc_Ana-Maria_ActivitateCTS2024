@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Builder1Restaurant/Builder1Restaurant.iml" filepath="$PROJECT_DIR$/Builder1Restaurant/Builder1Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder2Farmacie/Builder2Farmacie.iml" filepath="$PROJECT_DIR$/Builder2Farmacie/Builder2Farmacie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder3Banca/Builder3Banca.iml" filepath="$PROJECT_DIR$/Builder3Banca/Builder3Banca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder4Sportiv/Builder4Sportiv.iml" filepath="$PROJECT_DIR$/Builder4Sportiv/Builder4Sportiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder5Transport/Builder5Transport.iml" filepath="$PROJECT_DIR$/Builder5Transport/Builder5Transport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod1Restaurant/FactoryMethod1Restaurant.iml" filepath="$PROJECT_DIR$/FactoryMethod1Restaurant/FactoryMethod1Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod2Farmacie/FactoryMethod2Farmacie.iml" filepath="$PROJECT_DIR$/FactoryMethod2Farmacie/FactoryMethod2Farmacie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod3Banca1/FactoryMethod3Banca1.iml" filepath="$PROJECT_DIR$/FactoryMethod3Banca1/FactoryMethod3Banca1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod3Banca2/FactoryMethod3Banca2.iml" filepath="$PROJECT_DIR$/FactoryMethod3Banca2/FactoryMethod3Banca2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod4Sportiv/FactoryMethod4Sportiv.iml" filepath="$PROJECT_DIR$/FactoryMethod4Sportiv/FactoryMethod4Sportiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype1Restaurant/Prototype1Restaurant.iml" filepath="$PROJECT_DIR$/Prototype1Restaurant/Prototype1Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype2Banca/Prototype2Banca.iml" filepath="$PROJECT_DIR$/Prototype2Banca/Prototype2Banca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype3Transport/Prototype3Transport.iml" filepath="$PROJECT_DIR$/Prototype3Transport/Prototype3Transport.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
@@ -9,6 +22,11 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar4.2/Seminar4.2.iml" filepath="$PROJECT_DIR$/Seminar4.2/Seminar4.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5.1/Seminar5.1.iml" filepath="$PROJECT_DIR$/Seminar5.1/Seminar5.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5.2/Seminar5.2.iml" filepath="$PROJECT_DIR$/Seminar5.2/Seminar5.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory1Restaurant/SimpleFactory1Restaurant.iml" filepath="$PROJECT_DIR$/SimpleFactory1Restaurant/SimpleFactory1Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory2Farmacie/SimpleFactory2Farmacie.iml" filepath="$PROJECT_DIR$/SimpleFactory2Farmacie/SimpleFactory2Farmacie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory3Sportiv/SimpleFactory3Sportiv.iml" filepath="$PROJECT_DIR$/SimpleFactory3Sportiv/SimpleFactory3Sportiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory4Transport/SimpleFactory4Transport.iml" filepath="$PROJECT_DIR$/SimpleFactory4Transport/SimpleFactory4Transport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton1Transport/Singleton1Transport.iml" filepath="$PROJECT_DIR$/Singleton1Transport/Singleton1Transport.iml" />
       <module fileurl="file://$PROJECT_DIR$/Storociuc_Ana-Maria_ActivitateCTS2024.iml" filepath="$PROJECT_DIR$/Storociuc_Ana-Maria_ActivitateCTS2024.iml" />
     </modules>
   </component>
